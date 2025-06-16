@@ -1,11 +1,33 @@
-## django - vue projects
-- [my-react-app](https://github.com/username/my-react-app)
-- [portfolio-site](https://github.com/username/portfolio-site)
+<h1 align="center">سلام! 👋 من علی قادری‌پور هستم</h1>
+<p align="center">توسعه‌دهنده Python, Django, Vue — علاقه‌مند به یادگیری عمیق و تمرین‌های سیستمی</p>
 
+---
 
-## flask - vue projects
-- [ai-chatbot](https://github.com/username/ai-chatbot)
-- [image-classifier](https://github.com/username/image-classifier)
+## 💼 Django + Vue Projects
+- 🔗 [Job Posting App](https://github.com/alighaderipour/jobposting)
+- 🔗 [Link Shortener](https://github.com/alighaderipour/linkshortener)
+- 🔗 [LinkTree Clone](https://github.com/alighaderipour/LinkTreeClone)
 
-## hospital projeects
-- [data-cleaner](https://github.com/username/data-cleaner)
+## 🏥 Hospital Projects
+- 🔗 [Phonebook System](https://github.com/alighaderipour/phonebook)
+
+## 🎨 Vue Practice
+- 🔗 [Vue Basics](https://github.com/alighaderipour/vue)
+- 🔗 [Vue Practice](https://github.com/alighaderipour/vue-practice)
+
+## ⚙️ Raw Projects (Back-end Focused)
+- 🔗 [Django + MySQL](https://github.com/alighaderipour/djangomysql)
+- 🔗 [Vue + Flask + MySQL](https://github.com/alighaderipour/vue-flask-mysql)
+
+## 💻 C Practice
+*(در دست اضافه شدن)*
+
+## 🐧 Linux Practice
+*(در دست اضافه شدن)*
+
+---
+
+### 📫 تماس با من:
+- [GitHub](https://github.com/alighaderipour)
+- [ایمیل](mailto:ali.ghaderipour@gmail.com) 
+
