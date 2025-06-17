@@ -20,14 +20,8 @@
 - 🔗 [Django + MySQL](https://github.com/alighaderipour/djangomysql)
 - 🔗 [Vue + Flask + MySQL](https://github.com/alighaderipour/vue-flask-mysql)
 
-## 💻 C Practice
-*(در دست اضافه شدن)*
-
-## 🐧 Linux Practice
-*(در دست اضافه شدن)*
-
----
-
+## 💻 Beginner Project
+🔗 [Tic-tac-toe](https://github.com/alighaderipour/Tic-tac-toe)
 ### 📫 تماس با من:
 - [GitHub](https://github.com/alighaderipour)
 - [ایمیل](mailto:ali.ghaderipour@gmail.com) 
