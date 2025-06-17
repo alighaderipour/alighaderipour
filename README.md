@@ -10,6 +10,7 @@
 
 ## 🏥 Hospital Projects
 - 🔗 [Phonebook System](https://github.com/alighaderipour/phonebook)
+- 🔗 [MRI Reservation System](https://github.com/alighaderipour/mri)
 
 ## 🎨 Vue Practice
 - 🔗 [Vue Basics](https://github.com/alighaderipour/vue)
