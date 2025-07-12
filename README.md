@@ -4,9 +4,8 @@
 ---
 
 ## 💼 Django + Vue Projects
-- 🔗 [Job Posting App](https://github.com/alighaderipour/jobposting)
-- 🔗 [Link Shortener](https://github.com/alighaderipour/linkshortener)
-- 🔗 [LinkTree Clone](https://github.com/alighaderipour/LinkTreeClone)
+- 🔗 [AssestsManager App](https://github.com/alighaderipour/assestmanager)
+
 
 ## 🏥 Hospital Projects
 - 🔗 [Phonebook System](https://github.com/alighaderipour/phonebook)
