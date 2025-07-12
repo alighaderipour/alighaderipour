@@ -4,7 +4,7 @@
 ---
 
 ## 💼 Django + Vue Projects
-- 🔗 [AssestsManager App](https://github.com/alighaderipour/assestmanager)
+- 🔗 [AssestsManager App](https://github.com/alighaderipour/AssetManagement)
 
 
 ## 🏥 Hospital Projects
